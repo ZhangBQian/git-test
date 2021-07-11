@@ -15,5 +15,6 @@ public class App
         System.out.println("hello second1");
         System.out.println("dier ");
         System.out.println("master");
+        System.out.println();
     }
 }
